@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Padmapriya29
 - 👀 I’m interested in coding and various other fields
-- 🌱 I’m currently learning on whitehat jr a website where they teach coding for young adults and kids
+- 🌱 I’m currently learning on whitehat jr a website where they teach coding for young adults and kids learn to code different computer languages 
 - 💞️ I’m looking to collaborate on interesting projects(game, software, website) ideas
 - 📫 How to reach me? : padmapriyald1@gmail.com 
 
